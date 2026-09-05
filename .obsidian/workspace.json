@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "4ae21878a1a51c57",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc3b25f7b8d2587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76df0521970cba4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-29 R&D (The Forge)/ZeroPoint.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZeroPoint"
+            }
+          },
+          {
+            "id": "6cd24c0ad504cc55",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3cc75d6e36fd5c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9b6e926c607c44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a682ae15ae3b12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "e48cb9e7c6806d51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "8cc940d919fea703",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5b408b93213a3560",
+    "type": "split",
+    "children": [
+      {
+        "id": "e91118b26c1fba56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa469af9c2d8614",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "db0f4deb019da242",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "49eb05d4b095a8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fc5edcec4be54591",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "b92caeb08fb73f54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "6cd24c0ad504cc55",
+  "lastOpenFiles": [
+    "00-09 Management & Governance/00.05 - Panteón Arquitectónico AXS.md",
+    "20-29 R&D (The Forge)/ZeroPoint.md",
+    "20-29 R&D (The Forge)/Eris.Core.md",
+    "20-29 R&D (The Forge)/Mini-Lander.md",
+    "20-29 R&D (The Forge)/Memoria y Compresión de Contexto.md",
+    "20-29 R&D (The Forge)/Lander.md",
+    "20-29 R&D (The Forge)/Hunter Wallet.md",
+    "00-09 Management & Governance/00 - AXS Roadmap.md",
+    "00-09 Management & Governance/00.04 - Capacidades y Características de Eris.md",
+    "00-09 Management & Governance/00.01 - Manual del Sistema AXS.md",
+    "00-09 Management & Governance/00 - AXS Dashboard.md",
+    "10-19 Strategic Vision/TSN.md",
+    "2026-07-25.md",
+    "90-99 Archivo/Año/2025/Septiembre/2025-09-10.md",
+    "30-39 GTM & Business Operations/Comercial/Producto estrella.md",
+    "30-39 GTM & Business Operations/Comercial/Pitch narrativo.md",
+    "30-39 GTM & Business Operations/Comercial/Modelo de negocio MVP.md",
+    "30-39 GTM & Business Operations/Comercial/Comercial.md",
+    "00-09 Management & Governance/Registro de Actualizaciones.md.tmp.37804.e19159f6c6c8",
+    "50-59 Intelligence Feed/50 - Índice del Feed.md",
+    "CLAUDE.md.tmp.37804.15c6487c8327",
+    "CLAUDE.md.tmp.37804.5723881ebe59",
+    "10-19 Strategic Vision/TSN_v0.6.0_preprint.pdf",
+    "90-99 Archivo/Año/2025/Septiembre/2025-09-09.md",
+    "90-99 Archivo/Año/2025/Septiembre",
+    "90-99 Archivo/Año/2025",
+    "90-99 Archivo/Año",
+    "90-99 Archivo",
+    "50-59 Intelligence Feed/53 Decisions/decision-2026-05-04-optimizar-jornada-mediante-ajustes-de-actividad.md",
+    "50-59 Intelligence Feed/53 Decisions/decision-2026-05-04-1777920680731.md",
+    "50-59 Intelligence Feed/53 Decisions",
+    "20-29 R&D (The Forge)/Sistema de Herramientas.md",
+    "20-29 R&D (The Forge)/Query Engine.md",
+    "20-29 R&D (The Forge)/Interfaz y Servidor WebSocket.md",
+    "20-29 R&D (The Forge)/Arquitectura y Core.md",
+    "TSN_v0_6_0_preprint.pdf",
+    "30-39 GTM & Business Operations/Marketing/Logo/ChatGPT Image 23 sept 2025, 10_23_21 a.m..png",
+    "30-39 GTM & Business Operations/Marketing/Logo/ChatGPT Image 23 sept 2025, 10_42_03 a.m..png",
+    "30-39 GTM & Business Operations/Marketing/Logo/ChatGPT Image 23 sept 2025, 10_25_04 a.m..png",
+    "02 - Dominios Funcionales/Marketing/Logo/ChatGPT Image 23 sept 2025, 10_42_03 a.m..png",
+    "02 - Dominios Funcionales/Marketing/Logo/ChatGPT Image 23 sept 2025, 10_25_04 a.m..png",
+    "02 - Dominios Funcionales/Marketing/Logo/ChatGPT Image 23 sept 2025, 10_23_21 a.m..png"
+  ]
+}
