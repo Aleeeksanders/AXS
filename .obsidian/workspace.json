@@ -22,13 +22,17 @@
             }
           },
           {
-            "id": "6cd24c0ad504cc55",
+            "id": "0f237a6066c1e208",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "20-29 R&D (The Forge)/I+D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I+D"
             }
           }
         ],
@@ -87,8 +91,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +197,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6cd24c0ad504cc55",
+  "active": "0f237a6066c1e208",
   "lastOpenFiles": [
     "00-09 Management & Governance/00.05 - Panteón Arquitectónico AXS.md",
     "20-29 R&D (The Forge)/ZeroPoint.md",
