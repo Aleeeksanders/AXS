@@ -5,6 +5,8 @@ status: Activo
 ---
 
 # 🎨 AXS – Marketing
+
+↑ [[30-39 GTM & Business Operations/30 - Negocio.md|Negocio]]
 #AXS/Marketing
 
 ## Identidad
@@ -17,7 +19,7 @@ Concepto central: la X como símbolo de tecnología y futuro.
 - [[30-39 GTM & Business Operations/Marketing/Storytelling.md]]
 
 ## Objetivos
-- Creará logo tipográfico AXS (deadline: 14 días).
+- Crear logo tipográfico AXS (deadline: 14 días).
 - Diseñar tagline inicial: "Artificial eXperience System".
 - Vincular cada producto con AXS sin necesidad de explicarlo.
 

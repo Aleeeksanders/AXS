@@ -19,11 +19,11 @@ status: Activo
 - [ ] Expandir 1 nota o sección (20 min).
 - [ ] Microtarea creativa (mockup, esquema, branding).
 - [ ] Log de avance diario (2–3 líneas).
-- [ ] Creará/enlazar 1 nueva conexión en el grafo.
+- [ ] Crear/enlazar 1 nueva conexión en el grafo.
 - [ ] Lectura/aporte externo (20 min aplicado a AXS).
 
 **Ejemplo de log diario:**
-> Hoy vinculó TSN Neurociencia con Free Energy Principle, dibujó un flujo simple para GhostWatch y registró un gasto en Finanzas.
+> Hoy vinculé TSN Neurociencia con Free Energy Principle, dibujé un flujo simple para GhostWatch y registré un gasto en Finanzas.
 
 ---
 
@@ -31,12 +31,12 @@ status: Activo
 **Objetivo:** organizar el caos creativo en dirección clara.
 
 - [ ] Revisión semanal (1h domingo/lunes):
-  - ¿Qué logró?
+  - ¿Qué logré?
   - ¿Qué obstáculos tuve?
   - ¿Qué conexiones nuevas surgieron?
   - ¿Estoy alineado al plan mensual/trimestral?
 - [ ] Definir 3 objetivos semanales.
-- [ ] Creará 1 entrega semanal (nota consolidada, esquema, prototipo).
+- [ ] Crear 1 entrega semanal (nota consolidada, esquema, prototipo).
 - [ ] Redactar nota de cierre semanal en Obsidian.
 
 ---

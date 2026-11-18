@@ -5,7 +5,7 @@ project: Salud y Productividad
 type: Decisión Ejecutiva
 ---
 
-# 💎 Cristalización de Decisión  2026-05-04
+# 💎 Cristalización de Decisión — 2026-05-04
 
 ## ✅ Acuerdo
 Optimizar jornada mediante ajustes de actividad física, gestión del estrés y sueño

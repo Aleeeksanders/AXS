@@ -13,12 +13,12 @@ Funciona como puente entre teoría y prototipos.
 
 ## Ámbitos
 - Neurociencia → redes neuronales como tensiones/resoluciones.
-- IA → entrenamiento narrativo en modelos (ej: [[20-29 R&D (The Forge)/Lander.md]]).
+- IA → entrenamiento narrativo en modelos (ej: [[10-19 Strategic Vision/11 Visión de Producto/Lander.md]]).
 - Sociología → narrativas colectivas y su colapso en acción social.
 
 ## Objetivos
 - Experimentar con TSN en simulaciones cognitivas.
-- Usar [[20-29 R&D (The Forge)/Reality Mindset.md]] para probar narrativas inmersivas.
+- Usar [[10-19 Strategic Vision/11 Visión de Producto/Reality Mindset.md]] para probar narrativas inmersivas.
 - Validar hipótesis científicas publicables.
 
 ## Avances
@@ -31,5 +31,5 @@ Funciona como puente entre teoría y prototipos.
 
 ## Referencias
 - [[10-19 Strategic Vision/TSN.md]]
-- [[20-29 R&D (The Forge)/Lander.md]]
-- [[20-29 R&D (The Forge)/Reality Mindset.md]]
+- [[10-19 Strategic Vision/11 Visión de Producto/Lander.md]]
+- [[10-19 Strategic Vision/11 Visión de Producto/Reality Mindset.md]]

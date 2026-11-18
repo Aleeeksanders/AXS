@@ -8,6 +8,41 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"20-29 R&D (The Forge)/21 Núcleo de Eris\"",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "path:\"20-29 R&D (The Forge)/22 Módulos de la App\"",
+      "color": {
+        "a": 1,
+        "rgb": 8702998
+      }
+    },
+    {
+      "query": "path:\"20-29 R&D (The Forge)/23 Plataforma e Infraestructura\"",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:\"20-29 R&D (The Forge)/24 Hardware y Companions\"",
+      "color": {
+        "a": 1,
+        "rgb": 15485081
+      }
+    },
+    {
+      "query": "path:\"20-29 R&D (The Forge)/25 Laboratorio e I+D\"",
+      "color": {
+        "a": 1,
+        "rgb": 3718648
+      }
+    },
+    {
       "query": "path:\"00-09 Management & Governance\"",
       "color": {
         "a": 1,
@@ -60,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6887290310768973,
+  "scale": 1.2414537754874726,
   "close": true
 }

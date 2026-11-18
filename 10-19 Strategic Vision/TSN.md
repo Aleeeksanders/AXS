@@ -5,11 +5,13 @@ status: Activo
 ---
 
 # 📖 AXS – TSN (Teoría de la Tensión Estructural Narrativa)
+
+↑ [[10-19 Strategic Vision/10 - Visión Estratégica.md|Visión Estratégica]]
 #AXS/TSN
 
 ## Identidad
 La TSN es el marco filosófico, matemático y científico que sustenta AXS.  
-Funciona como el **núcleo conceptual** de [[20-29 R&D (The Forge)/Lander.md]] y de todo el ecosistema.
+Funciona como el **núcleo conceptual** de [[10-19 Strategic Vision/11 Visión de Producto/Lander.md]] y de todo el ecosistema.
 
 ## Ramas
 - [[10-19 Strategic Vision/TSN Filosofía.md]]
@@ -34,12 +36,13 @@ Funciona como el **núcleo conceptual** de [[20-29 R&D (The Forge)/Lander.md]] y
 - Lander como aplicación práctica inicial.
 
 ## Referencias
-- [[20-29 R&D (The Forge)/Lander.md|Lander]] — aplicación práctica.
+- [[10-19 Strategic Vision/11 Visión de Producto/Lander.md|Lander]] — aplicación práctica.
 - [[10-19 Strategic Vision/Ingeniería de Conciencia Aumentada (ICA).md|Ingeniería de Conciencia Aumentada (ICA)]] — disciplina derivada.
-- [[20-29 R&D (The Forge)/ZeroPoint.md]]
-- [[20-29 R&D (The Forge)/I+D.md]]
+- [[20-29 R&D (The Forge)/25 Laboratorio e I+D/ZeroPoint.md]]
+- [[20-29 R&D (The Forge)/25 Laboratorio e I+D/I+D.md]]
 - [[10-19 Strategic Vision/TSN_v0.5.0_preprint.md|📄 Preprint v0.5.0 (Paper)]]
 - [[10-19 Strategic Vision/Ingeniería de Conciencia Aumentada (ICA).md|ICA — Ingeniería de Conciencia Aumentada]]
+- [[10-19 Strategic Vision/Ética de la Conciencia Artificial.md|Ética de la Conciencia Artificial]] — la pregunta del fundador (2026-10-12) sobre crear algo que sienta.
 
 ## Disclaimer
 

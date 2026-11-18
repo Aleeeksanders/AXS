@@ -5,6 +5,8 @@ status: Activo
 ---
 
 # 🗂️ AXS – Administración
+
+↑ [[30-39 GTM & Business Operations/30 - Negocio.md|Negocio]]
 #AXS/Administración
 
 ## Identidad
@@ -27,7 +29,5 @@ Se asegura que AXS no pierda orden en el caos creativo.
 - Primer uso de Pareto → prioridad a Lander y GhostWatch.  
 
 ## Ideas
-- Creará una “Biblia AXS” con historia y visión fundacional.  
+- Crear una “Biblia AXS” con historia y visión fundacional.  
 
-## Referencias
-- [[00-09 Management & Governance/00 - AXS Dashboard|Dashboard]]

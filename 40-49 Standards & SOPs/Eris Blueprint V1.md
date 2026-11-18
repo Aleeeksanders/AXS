@@ -6,6 +6,8 @@ status: Activo
 
 # Eris (tu Jefa de Gabinete) — Blueprint v1.0
 
+↑ [[40-49 Standards & SOPs/40 - Estándares y Procedimientos.md|Estándares y Procedimientos]]
+
 Este documento es la transcripción del Blueprint original adaptado para la nueva estructura de AXS. Define las funciones operativas y estratégicas de Eris.
 
 ## Objetivos Generales

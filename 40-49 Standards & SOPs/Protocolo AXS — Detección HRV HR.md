@@ -12,6 +12,8 @@ status: Activo
 
 # 1. Principios no negociables (legal / ético / product)
 
+↑ [[40-49 Standards & SOPs/40 - Estándares y Procedimientos.md|Estándares y Procedimientos]]
+
 1. **No diagnóstico:** El sistema solo detecta _anomalas fisiológicas o de comportamiento_, nunca hace un juicio clínico o criminal por cuenta propia.
     
 2. **Consentimiento explícito:** Owner debe firmar consentimiento informado (configuración inicial) que autoriza medidas automáticas descritas aquí. Registro firmado por device y server.
@@ -184,7 +186,7 @@ Cada señal aporta puntos; sumar y decidir:
 - **Hard-lock (no automático):** requeriría intervención legal o proceso de appeals y cadena de custodia; no debe activarse automáticamente por algoritmo.
     
 
-**Regla:** nunca cortar comunicación SOS o la capacidad de creará llamadas de emergencia. Seguridad de la persona primero.
+**Regla:** nunca cortar comunicación SOS o la capacidad de hacer llamadas de emergencia. Seguridad de la persona primero.
 
 ---
 

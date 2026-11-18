@@ -7,7 +7,7 @@ status: Activo
 # Presupuesto inicial
 #AXS/Finanzas
 
-[[30-39 GTM & Business Operations/Finanzas/Finanzas.md]] · [[00-09 Management & Governance/00 - AXS Dashboard|AXS]]
+[[30-39 GTM & Business Operations/Finanzas/Finanzas.md]]
 
-- Prioridad: prototipos de [[20-29 R&D (The Forge)/Lander.md]] y [[20-29 R&D (The Forge)/GhostWatch.md]].
+- Prioridad: prototipos de [[10-19 Strategic Vision/11 Visión de Producto/Lander.md]] y [[10-19 Strategic Vision/11 Visión de Producto/GhostWatch.md]].
 - Gasto en herramientas: Obsidian, API IA, smartwatch/lentes (si aplica).

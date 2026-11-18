@@ -30,5 +30,5 @@ La tensión narrativa puede representarse como una **función de estados probabi
 
 ## Referencias
 - [[10-19 Strategic Vision/TSN.md]]
-- [[20-29 R&D (The Forge)/ZeroPoint.md]]
-- [[20-29 R&D (The Forge)/I+D.md]]
+- [[20-29 R&D (The Forge)/25 Laboratorio e I+D/ZeroPoint.md]]
+- [[20-29 R&D (The Forge)/25 Laboratorio e I+D/I+D.md]]

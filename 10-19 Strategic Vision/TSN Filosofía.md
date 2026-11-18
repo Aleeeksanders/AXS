@@ -26,4 +26,4 @@ Punto de partida: **la conciencia es un observador que colapsa narrativas posibl
 
 ## Referencias
 - [[10-19 Strategic Vision/TSN.md]]
-- [[20-29 R&D (The Forge)/Lander.md]]
+- [[10-19 Strategic Vision/11 Visión de Producto/Lander.md]]

@@ -6,6 +6,8 @@ status: Activo
 
 # AXS-P0rtal / Núcleo Conceptual
 
+↑ [[10-19 Strategic Vision/10 - Visión Estratégica.md|Visión Estratégica]]
+
 ## Ingeniería de Conciencia Aumentada (ICA)
 > Rama de la ciencia aplicada desarrollada en **AXS-P0rtal** que integra **neurofisiología, inteligencia artificial adaptativa** y **sistemas de retroalimentación contextual multiescalar** para **modelar, amplificar y sincronizar la experiencia consciente humana en entornos tecnológicos**, mediante la **cuantificación y seguimiento dinámico en tiempo real de la Tensión Estructural Narrativa (τ)** y su **modulación adaptativa mediante agentes de reconfiguración cognitivo-ambiental (η)**.
 
